@@ -4,5 +4,5 @@
 print_r($_SESSION);
 
 
-echo "hello";
+echo "hello world";
 ?>
